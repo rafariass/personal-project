@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteBase /
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://your_site/$1 [R,L]
+RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+ErrorDocument 404 https://your_site/error.shtml

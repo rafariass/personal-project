@@ -1,0 +1,18 @@
+{
+    "name": "rafariass/personal-project",
+    "description": "",
+    "keywords": ["Personal-Project", "PHPMailer", "PHPdotenv"],
+    "license": "GNU GENERAL PUBLIC LICENSE Version 3",
+    "authors": [
+        {
+            "name": "Raul Farias S.",
+            "email": "ra.farias.s@outlook.com",
+            "homepage": "https://github.com/rafariass"
+        }
+    ],
+    "require": {
+        "php": "^7.1.3 || ^8.0",
+        "phpmailer/phpmailer": "^6.3",
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
