@@ -1,5 +1,5 @@
 # RAFARIASS - Proyecto Base para una pag. web simple
-![RaFariasS](https://github.com/rafariass/personal-project/rafariass-full.png)
+![RaFariasS](https://github.com/rafariass/personal-project/blob/main/rafariass-full.png)
 
 ## License 📄
 This software is distributed under the [GNU GPL 3](https://www.gnu.org/licenses/gpl-3.0.html) license, along with the [GPL Cooperation Commitment](https://gplcc.github.io/gplcc/).
