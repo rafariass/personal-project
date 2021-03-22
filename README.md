@@ -1,4 +1,4 @@
-# RAFARIASS - Proyecto Base para una pag. web simple
+# RaFariasS - Personal Project
 ![RaFariasS](https://github.com/rafariass/personal-project/blob/main/rafariass-full.png)
 
 ## License 📄
